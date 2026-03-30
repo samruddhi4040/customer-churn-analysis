@@ -63,7 +63,7 @@ An interactive dashboard was created in Power BI to visualize key metrics and in
 
 ## Project Structure  
 
-Customer-Churn-Analysis/
+Customer-Churn-Analysis
 ```
 │
 ├── churn_analysis.ipynb
