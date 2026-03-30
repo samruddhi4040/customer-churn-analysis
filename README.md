@@ -57,7 +57,7 @@ The following analysis was conducted:
 ## Dashboard  
 An interactive dashboard was created in Power BI to visualize key metrics and insights.  
 
-![Dashboard Screenshot](Screenshot 2026-03-30 175438.png)
+![Screenshot 2026-03-30 175438](Screenshot 2026-03-30 175438.png)
 
 ---
 
